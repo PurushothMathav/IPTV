@@ -109,7 +109,7 @@ applicable laws and service terms.
 
 ## 🧑‍💻 Download
 
-Link: [PanguPlay IPTV Windows beta](https://www.dropbox.com/scl/fi/cghvjvfhy6rb1exuccfsp/PanguPlay-IPTV.7z?rlkey=p1tjdqg04l8wmwoyarzk2gckp&st=i3qmrdfy&dl=1)
+Link: [PanguPlay IPTV Windows beta](https://www.dropbox.com/scl/fi/wx6p4w4wkymnl3icvqnuq/PanguPlay-IPTV.7z?rlkey=xjyxlfc65b1gzd0mpk03d74vd&st=g2yapxgj&dl=1)
 
 ------------------------------------------------------------------------
 
