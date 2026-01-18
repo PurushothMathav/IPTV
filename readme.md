@@ -30,6 +30,7 @@ modern browser will play here.
     -   `#EXTINF`
     -   `group-title`
     -   `tvg-logo`
+    -   `tvg-language`
     -   `#KODIPROP:inputstream.adaptive.license_key`
 -   Automatic ClearKey playback for DASH streams
 -   Channel list with logos
@@ -103,6 +104,12 @@ present.
 This project is for **educational and personal use** only.\
 You are responsible for the content you load and must respect all
 applicable laws and service terms.
+
+------------------------------------------------------------------------
+
+## 🧑‍💻 Download
+
+Link: [PanguPlay IPTV Windows beta](https://www.dropbox.com/scl/fi/cghvjvfhy6rb1exuccfsp/PanguPlay-IPTV.7z?rlkey=p1tjdqg04l8wmwoyarzk2gckp&st=i3qmrdfy&dl=1)
 
 ------------------------------------------------------------------------
 
