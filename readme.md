@@ -109,7 +109,8 @@ applicable laws and service terms.
 
 ## 🧑‍💻 Download
 
-Link: [PanguPlay IPTV Windows beta](https://www.dropbox.com/scl/fi/wx6p4w4wkymnl3icvqnuq/PanguPlay-IPTV.7z?rlkey=xjyxlfc65b1gzd0mpk03d74vd&st=g2yapxgj&dl=1)
+- Portable Version: [PanguPlay IPTV Windows beta](https://www.dropbox.com/scl/fi/cl6jyukgohxk7u2sn3um7/PanguPlay-IPTV-Portable-1.0.0.7z?rlkey=lrolngrfvsu33wrqks7d8pavg&st=ui7mu5us&dl=1)
+- Installer Version: [PanguPlay IPTV Windows beta](https://www.dropbox.com/scl/fi/qs0f6cbdseggo53kgxzwu/PanguPlay-IPTV-Setup-1.0.0.7z?rlkey=rz3gt2f7i2bc9e85gcsqgbbm5&st=9ci7sj6x&dl=1)
 
 ------------------------------------------------------------------------
 
